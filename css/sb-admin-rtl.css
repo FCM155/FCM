@@ -1,0 +1,36 @@
+/* CSS Document */
+
+@media (min-width: 768px){
+  #wrapper {padding-right: 225px; padding-left: 0;}
+  .side-nav{right: 0;left: auto;}
+}
+
+body{
+   font-family: 'DroidKufi-Regular';
+	}
+
+.fa-fw{
+	float: right;
+	margin: 5px;
+	}
+	
+.side-nav {
+    text-align: right;
+}
+
+.page-header{
+	text-align:right;
+	}
+	
+.breadcrumb{
+	text-align:right
+	
+	}	
+	
+.alert{
+	text-align:right;}	
+
+.panel-title{
+	text-align:right;
+	
+	}
